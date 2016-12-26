@@ -1,6 +1,7 @@
 # Discord-Theme
 
 Ce thème n'est plus à jour.
+
 This theme is out of date.
 
 **Previews:**
