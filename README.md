@@ -1,5 +1,8 @@
 # Discord-Theme
 
+Ce thème n'est plus à jour.
+This theme is out of date.
+
 **Previews:**
 ![Preview-1](http://imgh.us/screen-1_1.png)
 ![Preview-2](http://imgh.us/screen-3.png)
